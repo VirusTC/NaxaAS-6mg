@@ -1,0 +1,4 @@
+Metric	Baseline_Requirement	Intra_Treatment_Monitoring	Post_Treatment_Target
+Serum_Copper	Prior_to_1st_dose	Weekly_during_active_therapy	70-140_ug/dL
+Ceruloplasmin	Prior_to_1st_dose	Every_2_weeks	20-50_mg/dL
+Liver_Function_ALT_AST	Document_normal_range	Bi-weekly_discontinue_if_gt_2x_ULN	Baseline_levels
