@@ -1,5 +1,3 @@
-* * * * *
-
 3\. Molecular Entry Pathways of Zinc-Induced Metallothionein Trapping
 
 When high levels of exogenous zinc are introduced to the gastrointestinal tract, they trigger an intracellular feedback loop that inadvertently blocks systemic copper absorption, creating a localized trap.
