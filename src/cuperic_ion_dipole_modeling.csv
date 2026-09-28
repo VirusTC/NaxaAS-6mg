@@ -1,0 +1,4 @@
+Isolate_ID,Ion_Vector,Oxidation_State,Ionic_Radius_Å,Net_Charge_q,Induced_Dipole_Debyes,α_avg_Å3,α_xx_Å3,α_yy_Å3,α_zz_Å3,Max_Field_Length_Å,Resonant_Lattice_Target,Biophysical_Role
+Cu-MONO-001,Copper_Ion_Monovalent,Cu+,0.77,1.0,1.24,0.45,0.45,0.45,0.45,2.15,Fungal_LPS_Shield,Destabilizes_fungal_outer_membranes_via_induced_polarization_and_charge_transfer
+Cu-DIVA-002,Copper_Ion_Divalent,Cu2+,0.73,2.0,3.15,0.24,0.24,0.24,0.24,4.85,Renal_Bone_Matrix,High_charge_density_vector_driving_kinetic_draw_to_correct_osteopenia_deficiencies
+Cu-CERE-003,Ceruloplasmin_Complex,Bound_Protein,Varied,Mixed,4.52,24.15,31.40,21.12,19.93,11.24,Liver_Parenchyma,Stabilized_proteinaceous_carrier_matrix_for_safe_systemic_transit_through_blood_pipelines
